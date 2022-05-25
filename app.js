@@ -30,6 +30,7 @@ function buildTable(data) {
           }
         );
       });
+    }
 
 //Define the function for handleClick
 function handleClick() {
