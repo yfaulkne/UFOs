@@ -5,7 +5,7 @@
 ---
 ### Results
 ##### Users can input values for date, city, state, country, or shape. Below is the homepage:
-![homepage]()
+![homepage](https://github.com/yfaulkne/UFOs/blob/main/static/images/homepage.png)
 ---
 ###### An example of user input is below with the date filtered as 1/4/2010. Simply input the date into the 'Enter Date' field and then press Enter on your keyboard. 
 ![Jan 4 2010](https://github.com/yfaulkne/UFOs/blob/main/static/images/Jan%204%202010.png)
