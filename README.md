@@ -5,13 +5,13 @@
 ---
 ### Results
 ##### Users can input values for date, city, state, country, or shape. Below is the homepage:
-!(homepage)[]
+![homepage]()
 ---
 ###### An example of user input is below with the date filtered as 1/4/2010. Simply input the date into the 'Enter Date' field and then press Enter on your keyboard. 
-!(Jan 4 2010)[]
+![Jan 4 2010](https://github.com/yfaulkne/UFOs/blob/main/static/images/Jan%204%202010.png)
 ---
 ##### User can also input more than one filter. Below is an example of input using date as 1/4/2010, Cleveland as the state, and triangle as the shape of the UFO.
-!(multi filter)[]
+![multi filter]()
 ---
 ### Summary
 ##### The one drawback of this webpage is that the filtering could use some work. The user would have to input their data with no punctuation and also spelled correctly. This doesn't seem like it would be a big deal on the surface; but if these guidelines aren't spelled out somewhere on the page, the user may miss the info that they are seeking only because they used a capital letter instead of lower cased. I have two suggestions based on this drawback:
